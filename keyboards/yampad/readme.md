@@ -1,4 +1,4 @@
-# Yampad
+`# Yampad
 
 ![yampad](https://github.com/mattdibi/yampad/blob/master/img/yampad.jpg)
 
