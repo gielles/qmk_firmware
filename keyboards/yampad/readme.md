@@ -11,6 +11,10 @@ The Yampad project is an open-source, QMK (Quantum Mechanical Keyboard Firmware)
 Make example for this keyboard (after setting up your build environment):
 
     make yampad:default
+#
+    for the liatris use this command to convert to uf2 format:
+        qmk compile -e CONVERT_TO=rp2040_ce -kb yampad -km default
+
 
 Flashing example for this keyboard:
 
